@@ -1,12 +1,12 @@
 # Hello World 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=00BFFF&center=false&vCenter=true&width=650&lines=$+neofetch;Name:+Islam+Sayed;....;College:+ElShorok+Acadey+—+Computer+Engineering;....;Languages:+Java,+Dart,+C++;....;Position:+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=00BFFF&center=false&vCenter=true&width=650&lines=$+neofetch;Name:+Abdelrhman+Ali;....;College:+ElShorok+Acadey+—+Computer+Engineering;....;Languages:+Java,+Dart,+C++,+python;....;Position:+Software+Engineer)](https://git.io/typing-svg)
 
 ---
 
 ### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islamsayed0/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/islam.sayed291)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/islamsayed0/](https://www.linkedin.com/in/abdelrhman-ali-12127321b/)](https://www.linkedin.com/in/abdelrhman-ali-12127321b/))  
+
 
 ---
 
