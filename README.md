@@ -5,13 +5,13 @@
 ---
 
 ### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/islamsayed0/](https://www.linkedin.com/in/abdelrhman-ali-12127321b/)](https://www.linkedin.com/in/abdelrhman-ali-12127321b/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-ali-12127321b/)  
 
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=islamsayed0&color=brightgreen&abbreviated=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abdelrhman216&color=brightgreen&abbreviated=true" alt="Profile Views" />
 </p>
 
 ---
