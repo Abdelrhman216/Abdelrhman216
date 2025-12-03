@@ -1,31 +1,56 @@
-👋 Hi, I'm Abdelrahman Ali
+# Hello World 👋
 
-Computer Science student passionate about Cybersecurity and Software Development. I have hands-on experience in penetration testing, network security, and digital forensics, along with building real-world applications using Flutter, JavaScript, and C#.
-
-I completed technical training at CyberX and NTI, where I worked on practical security labs and real attack simulations. On the development side, I focus on building clean, scalable, and secure applications with modern UI and reliable performance.
-
-Currently, I’m improving my skills in Red Teaming, mobile app development, and secure system design, while working on real projects that combine security with programming. I’m always eager to learn, collaborate, and contribute to open-source projects.
-
-🛠️ Skills
-
-Cybersecurity • Penetration Testing • Red Team • Flutter • JavaScript • C# • SQL • Linux • Git
-
-
-# 💫 About Me:
-🔭 I’m currently working on: Flutter mobile apps & cybersecurity labs  <br>🤝 I’m looking to collaborate on: Open-source security tools & mobile applications  <br>🆘 I’m looking for help with: Advanced penetration testing & secure backend systems  <br>🌱 I’m currently learning: Red Teaming, Digital Forensics, and Secure App Development  <br>💬 Ask me about: Flutter, Cybersecurity, Supabase, APIs, and Networking  <br>⚡ Fun fact: I mix cybersecurity with mobile development to build secure real-world apps<br>
-
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdelrhman216&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abdelrhman216&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrhman216&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abdelrhman216&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=00BFFF&center=false&vCenter=true&width=650&lines=$+neofetch;Name:+Islam+Sayed;....;College:+Modern+Academy+—+Computer+Engineering;....;Languages:+Java,+Dart,+C++;....;Position:+Software+Engineer)](https://git.io/typing-svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdelrhman216&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islamsayed0/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/islam.sayed291)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=islamsayed0&color=brightgreen&abbreviated=true" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 Technologies I Use  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Juniper](https://img.shields.io/badge/Juniper-2AAB8E?style=for-the-badge&logo=junipernetworks&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+
+---
+## 💡 Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=islamsayed0&show_icons=true&theme=blue" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+    </td>
+  </tr>
+</table>
+
+---
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
